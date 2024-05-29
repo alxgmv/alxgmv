@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![codewars](https://www.codewars.com/users/faust24/badges/large)](https://www.codewars.com/users/faust24/badges/large)
 <!--
 **alxgmv/alxgmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
